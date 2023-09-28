@@ -1,0 +1,485 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty One Seconds Resume/CV
+% LaTeX Template
+% Version 1.0 (2022/12/29)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+%
+% profile image is from https://publicdomainvectors.org/photos/nayrhcrel-alice-32.png
+%
+% License
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Alessandro Trinca Tornidor (alessandro at trinca dot tornidor dot com)
+%% Copyright 2022-now Alessandro Trinca Tornidor (alessandro at trinca dot tornidor dot com)
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License, either version 1.3
+% of this license or (at your option) any later version.
+% The latest version of this license is in
+%   http://www.latex-project.org/lppl.txt
+% and version 1.3 or later is part of all distributions of LaTeX
+% version 2005/12/01 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+% 
+% The Current Maintainer of this work is Alessandro Trinca Tornidor
+%
+% This work consists of the files template.tex and twentyonesecondcv.cls
+% and the derived file twentyonesecondcv.pdf
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentyonesecondcv} % a4paper for A4
+
+\profilepic{image.png} % Profile picture
+\cvname{Angel Alberto Vazquez Sánchez} % Your name
+\cvjobtitle{Ingeniero en Ciencias Informáticas} % Job title/career
+\cvaddress{La Habana, Cuba} % Short address/location, use \newline if more than 1 line is required
+\cvsitepersonal{5354761153}%personal site
+\cvstackoverflow{0000-0002-3130-7983} % Personal website
+\cvlinkedin{angel-alberto-vazquez-sanchez}
+\cvskypeurl{aavazquezs} % Skype
+\cvgithub{aavazquezs}
+\cvmail{aavazquezs@gmail.com} % Email address
+
+%\skills{{Java/5},{Python/5},{Backend Development/4.5},{Frontend Development/3},{DevOps/3}}
+\skills{{Solución problemas/6},{Conocimiento técnico/5.5},{Capacidad de aprendizaje/5.5},{Comunicación efectiva/5},{Trabajo en equipo/5.5}, {Atención al detalle/4}, {Creatividad/4.5}, {Trabajo con datos/4}}
+
+\idiomas{{Inglés/4},{Portugués/3}}
+
+\herramientas{{Lenguaje Java/6}, {Lenguaje Python/5.5}, {Spring Framework Tools/5}, {Numpy y Pandas/4}, {Scikit-learn/5}, {FastAPI/4}, {Apache Spark/5}, {Angular/3}}
+
+\begin{document}
+\sidesection{
+    \makeheaderprofile
+    \makeinfoprofile
+    \aboutme{
+    	Profesor Auxiliar del Departamento de Inteligencia Computacional en la Universidad de las Ciencias Informáticas (UCI), en La Habana, Cuba.
+    	Imparte clases de pregrado y postgrado en asignaturas como \textit{Estructuras de Datos}, \textit{Inteligencia Artificial}, \textit{Aprendizaje Automático} e \textit{Introducción a Big Data con Apache Spark} y \textit{Estructuras de Datos Avanzada}.
+    	Graduado de Ingeniero en Ciencias Informáticas y Máster en Informáticas Aplicada por la UCI.
+	}
+
+    \makeidiomaprofile
+    
+    \par\vfill
+    %\makefooterprofile{Footer profile for page one.}{Footer profile row two with some more informations.}
+    
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for some reason yoy can't have a new line here...
+\mainsection{
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %%%%%%Skill bar section, each skill must have a value between 0 an 6 (float)%%%%%%%
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+       
+    \section{Educación}
+    
+    \begin{twenty}
+      \twentyitem
+        {2003-2008}
+        {Ingeniería {\normalfont en Ciencias Informáticas}}
+        {Universidad de Ciencias Informáticas}
+        {Graduado con honores en Ingeniería en Ciencias Informáticas, alcanzando Título de Oro otorgado por la Universidad de Ciencias Informáticas. Obtuvo una nota de 5.16 puntos de un máximo de 5. Participa durante la carrera en diversos eventos estudiantiles de corte científico como Jornadas Científicas, Forums de Ciencia y Técnicas, competiciones de programación como ACM-ICPC.}
+      \twentyitem
+        {2012-2014}
+        {M.Sc. Informática Aplicada}
+        {Universidad de Ciencias Informáticas}
+        {Graduado de Máster en Ciencias en Informática Aplicada, en la Universidad de Ciencias Informáticas, obteniendo un total de 72 créditos para alcanzar la misma. La tesis presentada tuvo como título: \textit{Algoritmo para generar posiciones candidatas de enrutamiento de una WSAN en entorno interiores}.}
+    \end{twenty}
+    
+    \section{Experiencia laboral}
+    
+    \begin{twenty}
+    	\twentyitem
+    	{2008-2012}
+    	{Profesor}
+    	{UCI}
+    	{Profesor del departamento de Técnicas de Programación y Sistemas Digitales en la facultad 4 de la Universidad de Ciencias Informáticas (UCI). Imparte la asignaturas de \textit{Programación Web}, \textit{Estructuras de Datos} e \textit{Inteligencia Artificial}. Obtiene la categoría docente de \textit{Profesor Instructor}.}
+    	
+    	\twentyitem
+    	{2012-2017}
+    	{Jefe de Departamento}
+    	{UCI}
+    	{Jefe del Departamento Docente de Técnicas de Programación y Sistemas Digitales, en la Facultad 4 de la Universidad de Ciencias Informáticas. Imparte como profesor las asignaturas de \textit{Inteligencia Artificial}, y el postgrado de \textit{Minería de Datos Educativos}. Obtiene la categoría docente de Profesor Asistente, y el título de Máster en Informática}
+    	
+    	\twentyitem
+    	{2017-2019}
+    	{Profesor}
+    	{Instituto Superior de Tecnologias de Informação e Comunicação (ISUTIC)}
+    	{Como miembro de la carrera de Engenharia Informática imparte asignaturas de \textit{Compiladores}, \textit{Inteligencia Artificial}, \textit{Redes Neuronales}, \textit{Sistemas Distribuidos y Paralelos} e \textit{Introducción a la Programación}.}
+    	
+    	\twentyitem
+    	{2019-2022}
+    	{Jefe de Departamento}
+    	{UCI}
+    	{Jefe del departamento de Inteligencia Computacional en la Facultad 4 de la Universidad de Ciencias Informáticas. Imparte la asignatura de pregrado de \textit{Inteligencia Artificial} y \textit{Aprendizaje Automático}, y el postgrado de \textit{Introducción a Big Data con Apache Spark}.}
+    	
+    	\twentyitem
+    	{2023-act.}
+    	{Profesor}
+    	{UCI}
+    	{Profesor del departamento de Inteligencia Computacional en la Universidad de Ciencias Informáticas. Imparte la asignatura de pregrado de \textit{Inteligencia Artificial} y \textit{Aprendizaje Automático}, y los postgrados de \textit{Introducción a Big Data con Apache Spark} y \textit{Estructuras de Datos Avanzados}.}
+    	
+    \end{twenty}
+    
+    \section{Publicaciones y eventos}
+    
+    \begin{twentymid} % Environment for a list with descriptions  
+        
+        \twentyitem
+        {2009}
+        {Informática 2009}
+        {Cuba}
+        {Sistema automatizado para la captura de información referente al balance nacional de recursos y reservas de petróleo de la oficina nacional de recursos minerales. 2do autor}
+        
+        \twentyitem
+        {2010}
+        {UCIENCIA 2010}
+        {Cuba}
+        {Sistema de Gestión de Java Archives. 2do autor}
+        
+        \twentyitem
+        {2012}
+        {XI Semana tecnológica FORDES}
+        {Cuba}
+        {El control de edificios mediante redes inalámbricas de sensores y actuadores. 3er autor}
+       
+    \end{twentymid}
+    
+
+
+%% end main section
+}
+% \newpage
+
+% \noindent
+\sidesection{
+    \makeheaderprofilenoimg
+    
+    \customsidesection{Otras características}{
+    	\noindent Entusiasta del software libre y el opensource.
+    	
+    	\noindent Posee habilidades para el desarrollo de software en backend (con Java Spring Boot y FastAPI de Python).
+
+		\noindent Dominio de técnicas de aprendizaje automático con las herramientas disponibles en Python y Java.
+		
+		\noindent Desarrollo de aplicaciones de Big Data con Apache Spark.
+	}
+    
+    \makeskillsprofile
+    
+    \makeherramientasprofile
+    
+    \par\vfill
+    
+    %\makefooterprofile{Footer profile on page two...}{Footer profile row two with some more informations, again.}
+    
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for some reason yoy can't have a new line here...
+\mainsection{
+    
+    \section{Publicaciones y eventos}
+    
+    \begin{twentymid} % Environment for a list with descriptions  
+    	  	
+    	\twentyitem
+    	{2012}
+    	{XI Semana tecnológica FORDES}
+    	{Cuba}
+    	{Algoritmo genético para resolver el problema del viajante. 1er autor}
+    	
+    	\twentyitem
+    	{2012}
+    	{XI Semana tecnológica FORDES}
+    	{Cuba}
+    	{Integración de un jurado online a Moodle en apoyo a la enseñanza de la programación en informática. 2do autor}
+    	
+    	\twentyitem
+    	{2012}
+    	{XI Semana tecnológica FORDES}
+    	{Cuba}
+    	{Módulo Resultados de la colección de software educativo El Navegante versión multiplataforma. 3er autor}
+    	
+    	\twentyitem
+    	{2013}
+    	{INFOREDU 2013}
+    	{Cuba}
+    	{Herramienta de selección didáctica para la colección de software El Navegante. 3er autor}
+    	
+    	\twentyitem
+    	{2013}
+    	{FIMAT XXI}
+    	{Cuba}
+    	{Sistema de gestión de contenidos para la versión multiplataforma de la colección el Navegante. 5to autor}
+    	
+    	\twentyitem
+    	{2013}
+    	{FIMAT XXI}
+    	{Cuba}
+    	{Desarrollo de una herramienta de replicación de datos de la colección El Navegante. 1er autor}
+    	
+    	\twentyitem
+    	{2015}
+    	{COMPUMAT 2015}
+    	{Cuba}
+    	{Algoritmo para generar posiciones candidatas de enrutadores de una WSAN en entornos interiores. 1er autor}
+    	
+    	\twentyitem
+    	{2019}
+    	{International Conference on Interactive Collaborative and Blended Learning (ICBL) 2019}
+    	{Cuba}
+    	{Entorno distribuido para el minado de datos en ambientes educacionales masivos utilizando la herramienta Spark. 3er autor}
+    	
+    	\twentyitem
+    	{2020}
+    	{Revista de Tecnología Educativa}
+    	{Cuba}
+    	{Adaptación del algoritmo Bayesian Knowledge Tracing para la estimación de conocimiento latente sobre datos educacionales masivos. 1er autor. }
+    	
+    	\twentyitem
+    	{2021}
+    	{UCIENCIA 2021 / RCCI}
+    	{Cuba}
+    	{Breve revisión sobre Resolución de Restricciones Geométricas. 1er autor. }
+    	
+    	\twentyitem
+    	{2021}
+    	{UCIENCIA 2021 / RCCI}
+    	{Cuba}
+    	{Estimar conocimiento latente en grandes volúmenes de datos utilizando el algoritmo Bayesian Knowledge Tracing. 2do autor. }
+    	
+    	\twentyitem
+    	{2022}
+    	{Revista Científica UCI}
+    	{Cuba}
+    	{Vista de detalle para el módulo de planos técnicos del sistema AsiXmec. 2do autor.}
+    	
+    	\twentyitem
+    	{2022}
+    	{Revista Científica UCI}
+    	{Cuba}
+    	{Solucionador de restricciones geométricas mediante métodos de reducción de grafos para el sistema AsiXmec. 2do autor. }
+    	
+    \end{twentymid}
+    
+    \section{Cursos de postgrados recibidos}
+    \begin{twentymid}
+    	
+    	\twentymiditem
+    	{2008}
+    	{Ética Informática}
+    	{UCI}
+    	
+    	\twentymiditem
+    	{2008}
+    	{Aspectos éticos y sociales de la informática}
+    	{UCI}
+    	
+    	\twentymiditem
+    	{2009}
+    	{Curso Básico de Ingles}
+    	{UCI}
+    	
+    	\twentymiditem
+    	{2009}
+    	{Metodología de la Investigación Científica}
+    	{UCI}
+    	
+    	\twentymiditem
+    	{2009}
+    	{Base de datos}
+    	{UCI}
+    	
+    	\twentymiditem
+    	{2009}
+    	{Arquitectura de Redes y Computadoras}
+    	{UCI}
+    	
+    	\twentymiditem
+    	{2009}
+    	{Los sistemas inteligentes y sus aplicaciones}
+    	{UCI}
+    	
+    	\twentymiditem
+    	{2011}
+    	{Programación Distribuida}
+    	{UCI}
+	
+    \end{twentymid}
+}
+
+% \newpage
+
+% \noindent
+\sidesection{
+	\makeheaderprofilenoimg
+	
+	\customsidesection{Otras Informaciones}{
+		
+		Además de mi formación académica y experiencia laboral, me gustaría compartir algunas otras informaciones sobre mí que pueden ser relevantes. 
+		\\
+		\\
+		Soy una persona activa y me gusta mantenerme en forma. Una de mis actividades favoritas es correr, lo cual me permite despejar mi mente y mantener un estilo de vida saludable. También disfruto del fútbol, tanto como espectador como jugador en mis ratos libres. 
+		\\
+		\\
+		Otro aspecto muy importante para mí es mi familia. Considero que pasar tiempo de calidad con ellos es fundamental para mantener una vida equilibrada y feliz. Me gusta planificar actividades que nos permitan compartir tiempo juntos, como viajes, cenas, juegos de mesa, entre otras cosas.
+		\\
+		\\
+		Además, tengo un gran interés por la tecnología y la innovación, lo cual me ha llevado a participar en diversos eventos y conferencias relacionadas con estos temas. También disfruto de la lectura y el cine, especialmente de géneros como la ciencia ficción y la fantasía. 	
+		\\
+		\\
+		Creo que esta combinación de intereses y pasatiempos me permite tener una visión amplia de la vida, lo cual me ayuda a tener un enfoque más creativo y proactivo en mi carrera profesional.
+
+	}
+	\par\vfill
+
+	\par\vfill
+	
+	%\makefooterprofile{Footer profile on page two...}{Footer profile row two with some more informations, again.}
+	
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for some reason yoy can't have a new line here...
+\mainsection{
+	\section{Cursos de postgrados recibidos}
+	\begin{twentymid}
+	
+		\twentymiditem
+		{2011}
+		{Metodologías Ágiles en el desarrollo de software}
+		{UCI}
+		
+		\twentymiditem
+		{2012}
+		{Arquitectura de Redes y Computadoras}
+		{UCI}
+		
+		\twentymiditem
+		{2013}
+		{Teoría de grafo y sus aplicaciones en optimización combinatoria}
+		{UCI}
+		
+		\twentymiditem
+		{2014}
+		{Metaheurística y softcomputing}
+		{Consejo Interuniversitario Flamenco (VLIR), UCI}
+		
+		\twentymiditem
+		{2014}
+		{Práctica integral del inglés académico específico para profesionales de las TI}
+		{VLIR-UCI}
+		
+		\twentymiditem
+		{2014}
+		{Modern Programming Language Paradigms}
+		{VLIR-UCI}
+		
+		\twentymiditem
+		{2014}
+		{Design and management of Wireless sensor and Actuator networks: towards the internet of things}
+		{VLIR-UCI}
+		
+		\twentymiditem
+		{2014}
+		{Business Modeling and Execution I}
+		{VLIR-UCI}
+		
+		\twentymiditem
+		{2014}
+		{Business Modeling and Execution II}
+		{VLIR-UCI}
+		
+		\twentymiditem
+		{2014}
+		{Models for Data and Management}
+		{VLIR-UCI}
+		
+		\twentymiditem
+		{2014}
+		{Machine Learning}
+		{VLIR-UCI}
+		
+		\twentymiditem
+		{2015}
+		{Introducción a Big Data}
+		{UCI}
+		
+		\twentymiditem
+		{2020}
+		{Deep Reinforcement Learning}
+		{VLIR - Universidad de Camagüey}
+		
+		\twentymiditem
+		{2020}
+		{Numeric Python}
+		{UCI}
+		
+		\twentymiditem
+		{2022}
+		{Computación con palabras para la toma de decisiones}
+		{UCI}
+		
+		\twentymiditem
+		{2022}
+		{Internet de las cosas}
+		{VLIR - Universidad Central de las Villas (UCLV)}
+	\end{twentymid}
+
+	\section{Proyectos de investigación y desarrollo}
+	\begin{twentymid}
+		\twentymiditem
+		{2006-2010}
+		{Sistema de Investigación e Información Policial (SIIPOL). \\Proyecto de Desarrollo Internacional}
+		{CICPC, Venezuela}
+		
+		\twentymiditem
+		{2011-2013}
+		{Hiperentorno de aprendizaje \textit{El Navegante}. \\Proyecto de Desarrollo Nacional}
+		{UCI}
+		
+		\twentymiditem
+		{2013-2014}
+		{Libro Electrónico. \\Proyecto de Desarrollo Internacional}
+		{MPPEU, Venezuela}
+		
+		\twentymiditem
+		{2016-2017}
+		{Modelo para la minería de datos educativos. \\Proyecto de Investigación Institucional}
+		{UCI}
+		
+		\twentymiditem
+		{2021-2022}
+		{Plataforma para el modelado paramétrico en ingeniería basado en tecnologías de código abierto. \\Proyecto de Investigación Nacional}
+		{CITMA, Cuba}
+		
+	\end{twentymid}
+
+	\section{Tutorías}
+	\begin{twentymid}
+		\twentymiditem
+		{2018}
+		{Adaptación del algoritmo Teoría de Respuesta al Ítem para la estimación del conocimiento latente sobre Datos Educacionales Masivos (Orlando Grabiel Toledano López, 2018).}
+		{Maestría Informática Avanzada, UCI, Cuba}
+		
+		\twentymiditem
+		{2018}
+		{Entorno distribuido para el minado de datos en ambientes educacionales masivos (Neysa Baldoquin Alonso, 2018). Maestría Informática Avanzada, UCI}
+		{Maestría Informática Avanzada, UCI, Cuba}
+		
+		\twentymiditem
+		{2019}
+		{Adaptación del algoritmo Bayesian Knowledge Tracing para la estimación del conocimiento latente sobre datos educacionales masivos (Lisset Salazar Gómez, 2019). Maestría Informática Avanzada, UCI}
+		{Maestría Informática Avanzada, UCI, Cuba}
+		
+	\end{twentymid}
+}
+	
+
+\end{document}
