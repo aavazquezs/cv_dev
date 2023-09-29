@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  28 SEP 2023 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  29 SEP 2023 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,24 +846,24 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 70.
 (./template.aux)
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -937,7 +937,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 )
 \c@mv@tabular=\count350
 \c@mv@boldtabular=\count351
-Package hyperref Info: Link coloring ON on input line 57.
+Package hyperref Info: Link coloring ON on input line 59.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -950,9 +950,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count352
 )
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
 
 (./template.out) (./template.out)
 \@outlinefile=\write4
@@ -961,107 +961,107 @@ LaTeX Info: Redefining \nameref on input line 57.
 <image.png, id=43, 135.50626pt x 165.61874pt>
 File: image.png Graphic file (type png)
 <use image.png>
-Package pdftex.def Info: image.png  used on input line 72.
+Package pdftex.def Info: image.png  used on input line 76.
 (pdftex.def)             Requested size: 174.26576pt x 212.99959pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not availa
 ble
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 72.
+put line 76.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 72.
+(Font)              scaled to size 14.4pt on input line 76.
 
 
 LaTeX Font Warning: Font shape `T1/ClearSans-TLF/m/sc' undefined
-(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 72.
+(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 76.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <12> not availab
 le
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 72.
+put line 76.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 72.
+(Font)              scaled to size 12.0pt on input line 76.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 72.
+nput line 76.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-Overfull \hbox (3.93877pt too wide) in paragraph at lines 72--72
+Overfull \hbox (3.93877pt too wide) in paragraph at lines 76--76
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <10> not availab
 le
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 72.
+put line 76.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 72.
+(Font)              scaled to size 10.0pt on input line 76.
 
-Overfull \hbox (4.14384pt too wide) in paragraph at lines 72--72
+Overfull \hbox (4.14384pt too wide) in paragraph at lines 76--76
 [][]| 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 72.
+ input line 76.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <12> not 
 available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 72.
+n input line 76.
 
-Overfull \hbox (5.65166pt too wide) in paragraph at lines 72--72
+Overfull \hbox (5.65166pt too wide) in paragraph at lines 76--76
 [][]| 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 72.
+ input line 76.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <12> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 72.
+n input line 76.
 
-Overfull \hbox (3.85283pt too wide) in paragraph at lines 72--72
+Overfull \hbox (3.85283pt too wide) in paragraph at lines 76--76
 [][]| 
  []
 
 
-Overfull \hbox (5.11748pt too wide) in paragraph at lines 72--72
+Overfull \hbox (5.11748pt too wide) in paragraph at lines 76--76
 [][]| 
  []
 
 
-Overfull \hbox (5.32549pt too wide) in paragraph at lines 72--72
+Overfull \hbox (5.32549pt too wide) in paragraph at lines 76--76
 [][]| 
  []
 
 
-Overfull \hbox (3.85283pt too wide) in paragraph at lines 72--72
+Overfull \hbox (3.85283pt too wide) in paragraph at lines 76--76
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not availabl
 e
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 72.
+put line 76.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 72.
+(Font)              scaled to size 12.0pt on input line 76.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not availab
 le
 (Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on i
-nput line 72.
+nput line 76.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 72.
+(Font)              scaled to size 10.0pt on input line 76.
 
-Underfull \hbox (badness 3612) in paragraph at lines 72--72
+Underfull \hbox (badness 3612) in paragraph at lines 76--76
 \T1/ClearSans-TLF/regular/n/10 (UCI), en La Ha-bana, Cuba. Im-
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 72--72
+Underfull \hbox (badness 1496) in paragraph at lines 76--76
 \T1/ClearSans-TLF/regular/n/10 en asig-nat-uras como \T1/ClearSans-TLF/regular/
 it/10 Es-truc-turas de
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 72--72
+Underfull \hbox (badness 3861) in paragraph at lines 76--76
 \T1/ClearSans-TLF/regular/it/10 Datos\T1/ClearSans-TLF/regular/n/10 , \T1/Clear
 Sans-TLF/regular/it/10 In-teligen-cia Ar-ti-fi-cial\T1/ClearSans-TLF/regular/n/
 10 , \T1/ClearSans-TLF/regular/it/10 Apren-
@@ -1070,371 +1070,102 @@ Sans-TLF/regular/it/10 In-teligen-cia Ar-ti-fi-cial\T1/ClearSans-TLF/regular/n/
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 72.
+put line 76.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 72.
+(Font)              scaled to size 7.0pt on input line 76.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 [][]
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 158.
+put line 168.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 158.
+(Font)              scaled to size 8.0pt on input line 168.
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on in
+put line 168.
+(/usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
+File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearS
+ans-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not availab
+le
+(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on i
+nput line 168.
+LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 168.
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
-
- []
-
-
-Overfull \hbox (1.79999pt too wide) in paragraph at lines 72--160
+Overfull \hbox (1.79999pt too wide) in paragraph at lines 76--170
 [] [] 
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 183--183
-\T1/ClearSans-TLF/regular/n/10 Dominio de téc-ni-cas de apren-dizaje
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/ClearSans-TLF/regular/n/10 Comprometido con los proyec-tos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
-\T1/ClearSans-TLF/regular/n/10 au-tomático con las her-ramien-tas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
 [][]
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 316--316
-[]\T1/ClearSans-TLF/regular/n/10 International Con-fer-ence on In-ter-ac-tive C
-ol-lab-o-ra-tive and Blended
+Underfull \hbox (badness 1152) in paragraph at lines 258--258
+\T1/ClearSans-TLF/regular/it/10 Tecnologías\T1/ClearSans-TLF/regular/n/10 : Jav
+a, Spring Frame-work, Spring Boot, Spring Cloud,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-
- []
-
-
-Overfull \hbox (3.6pt too wide) in paragraph at lines 316--316
-[]  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-
- []
-
-
-Overfull \hbox (1.79999pt too wide) in paragraph at lines 183--317
+Overfull \hbox (1.79999pt too wide) in paragraph at lines 195--259
 [] [] 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./image.png>]
-Underfull \hbox (badness 1270) in paragraph at lines 347--347
-[]\T1/ClearSans-TLF/regular/n/10 Además de mi for-ma-ción académica
- []
-
-
-Underfull \hbox (badness 5893) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 y ex-pe-ri-en-cia lab-o-ral, me gus-taría
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
-
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 Soy una per-sona ac-tiva y me gusta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
-
- []
-
-
-Underfull \hbox (badness 4686) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 Otro as-pecto muy im-por-tante para
- []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 tiempo de cal-i-dad con el-los es fun-
- []
-
-
-Underfull \hbox (badness 7504) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 da-men-tal para man-tener una vida
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
-
- []
-
-
-Underfull \hbox (badness 1789) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 Además, tengo un gran in-terés por
- []
-
-
-Underfull \hbox (badness 2556) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 even-tos y con-fer-en-cias rela-cionadas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
-
- []
-
-
-Underfull \hbox (badness 4254) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 Creo que esta com-bi-nación de in-
- []
-
-
-Underfull \hbox (badness 5388) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 tere-ses y pasatiem-pos me per-mite
- []
-
-
-Underfull \hbox (badness 1859) in paragraph at lines 347--347
-\T1/ClearSans-TLF/regular/n/10 tener una visión am-plia de la vida,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Overfull \hbox (3.6pt too wide) in paragraph at lines 482--482
-[]  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Overfull \hbox (3.6pt too wide) in paragraph at lines 482--482
-[]  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 3492) in paragraph at lines 482--482
-[]\T1/ClearSans-TLF/regular/n/10 Entorno dis-tribuido para el mi-nado de datos 
-en am-bi-entes ed-
- []
-
-
-Underfull \hbox (badness 2707) in paragraph at lines 482--482
-\T1/ClearSans-TLF/regular/n/10 u-ca-cionales ma-sivos (Neysa Bal-do-quin Alonso
-, 2018). Maestría
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Overfull \hbox (3.6pt too wide) in paragraph at lines 482--482
-[]  []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
-
- []
-
-
-Overfull \hbox (1.79999pt too wide) in paragraph at lines 347--483
-[] [] 
- []
-
-[2] [3] (./template.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./image.png>] [2]
+(./template.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1442,26 +1173,27 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31642 strings out of 478287
- 640813 string characters out of 5849289
- 982370 words of memory out of 5000000
- 49317 multiletter control sequences out of 15000+600000
- 505825 words of font info for 45 fonts, out of 8000000 for 9000
+ 31687 strings out of 478287
+ 642043 string characters out of 5849289
+ 983889 words of memory out of 5000000
+ 49357 multiletter control sequences out of 15000+600000
+ 506494 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,20n,118p,1197b,1097s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{/usr
-/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/sha
-re/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/share/t
-exlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/share/texlive
-/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-
-Solid.pfb>
-Output written on template.pdf (3 pages, 194033 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{/usr
+/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{/usr/share/
+texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texl
+ive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/share/texlive/
+texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/share/texlive/texmf-
+dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.p
+fb>
+Output written on template.pdf (2 pages, 190549 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
